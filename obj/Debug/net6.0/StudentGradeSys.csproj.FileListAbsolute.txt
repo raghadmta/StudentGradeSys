@@ -1,0 +1,14 @@
+C:\Users\rmutlaq\source\repos\StudentGradeSys\bin\Debug\net6.0\StudentGradeSys.exe
+C:\Users\rmutlaq\source\repos\StudentGradeSys\bin\Debug\net6.0\StudentGradeSys.deps.json
+C:\Users\rmutlaq\source\repos\StudentGradeSys\bin\Debug\net6.0\StudentGradeSys.runtimeconfig.json
+C:\Users\rmutlaq\source\repos\StudentGradeSys\bin\Debug\net6.0\StudentGradeSys.dll
+C:\Users\rmutlaq\source\repos\StudentGradeSys\bin\Debug\net6.0\StudentGradeSys.pdb
+C:\Users\rmutlaq\source\repos\StudentGradeSys\obj\Debug\net6.0\StudentGradeSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmutlaq\source\repos\StudentGradeSys\obj\Debug\net6.0\StudentGradeSys.AssemblyInfoInputs.cache
+C:\Users\rmutlaq\source\repos\StudentGradeSys\obj\Debug\net6.0\StudentGradeSys.AssemblyInfo.cs
+C:\Users\rmutlaq\source\repos\StudentGradeSys\obj\Debug\net6.0\StudentGradeSys.csproj.CoreCompileInputs.cache
+C:\Users\rmutlaq\source\repos\StudentGradeSys\obj\Debug\net6.0\StudentGradeSys.dll
+C:\Users\rmutlaq\source\repos\StudentGradeSys\obj\Debug\net6.0\refint\StudentGradeSys.dll
+C:\Users\rmutlaq\source\repos\StudentGradeSys\obj\Debug\net6.0\StudentGradeSys.pdb
+C:\Users\rmutlaq\source\repos\StudentGradeSys\obj\Debug\net6.0\StudentGradeSys.genruntimeconfig.cache
+C:\Users\rmutlaq\source\repos\StudentGradeSys\obj\Debug\net6.0\ref\StudentGradeSys.dll

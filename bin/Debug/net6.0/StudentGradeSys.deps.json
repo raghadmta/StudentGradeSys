@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StudentGradeSys/1.0.0": {
+        "runtime": {
+          "StudentGradeSys.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentGradeSys/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,3 +1,3 @@
 ﻿# StudentGradeSys
+![image](https://github.com/raghadmta/StudentGradeSys/assets/55548241/5288813f-e9d3-4bb7-90ef-4fa0d644e1cd)
 
-![image](https://github.com/raghadmta/StudentGradeSys/assets/55548241/96aa8292-922a-4ba9-96df-0ce268d57aed)
